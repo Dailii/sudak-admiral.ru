@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="ru-ru">
+	<title type="text">Отзывы</title>
+	<subtitle type="text">Отель Адмиралъ в Судаке. Небольшая уютная гостиница со всеми удобствами. В 5 минутах от моря.</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+	<id>http://www.sudak-admiral.ru/otzivi</id>
+	<updated>2022-04-20T19:36:21+00:00</updated>
+	<generator uri="http://joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.sudak-admiral.ru/otzivi?format=feed&amp;type=atom"/>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-09-05T15:32:20+00:00</published>
+		<updated>2018-09-05T15:32:20+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Тимур, Саров </name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Приехали к вам по рекомендации друзей и остались довольны! Все хорошо, приедем ещё!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Приехали к вам по рекомендации друзей и остались довольны! Все хорошо, приедем ещё!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-09-05T15:28:00+00:00</published>
+		<updated>2018-09-05T15:28:00+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Светлана, Ростов-на-Дону</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Все было замечательно! Спасибо Олегу, Виталию и горничной! Будем вас рекомендовать и сами ещё не раз приедем! Спасибо за гостеприимство и отличный сервис!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Все было замечательно! Спасибо Олегу, Виталию и горничной! Будем вас рекомендовать и сами ещё не раз приедем! Спасибо за гостеприимство и отличный сервис!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-09-07T08:13:26+00:00</published>
+		<updated>2018-09-07T08:13:26+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Евгений</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;Спасибо за добрые слова!
+Мы стараемся постоянно улучшать качество предоставляемых услуг.
+В следующем сезоне планируем увеличение номерного фонда.
+Ждем всех в следующем году!&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;Спасибо за добрые слова!
+Мы стараемся постоянно улучшать качество предоставляемых услуг.
+В следующем сезоне планируем увеличение номерного фонда.
+Ждем всех в следующем году!&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-08-23T16:01:53+00:00</published>
+		<updated>2018-08-23T16:01:53+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Анатолий, Набережные Челны</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Обслуживание нам понравилось, персонал вежлив, внимателен.&lt;/p&gt;
+&lt;p&gt;Замечания: маленькая скорость интернета; уличный фонарь ночью светит прямо в номер через прозрачное стекло двери; уборку желательно делать чаще, т.к. дорога рядом и вся пыль с нее летит в номер; не хватает стиральной машинки.&lt;/p&gt;
+&lt;p&gt;Но в целом ваш гостевой дом нам понравился. Спасибо за гостеприимство! Удачи в бизнесе!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Обслуживание нам понравилось, персонал вежлив, внимателен.&lt;/p&gt;
+&lt;p&gt;Замечания: маленькая скорость интернета; уличный фонарь ночью светит прямо в номер через прозрачное стекло двери; уборку желательно делать чаще, т.к. дорога рядом и вся пыль с нее летит в номер; не хватает стиральной машинки.&lt;/p&gt;
+&lt;p&gt;Но в целом ваш гостевой дом нам понравился. Спасибо за гостеприимство! Удачи в бизнесе!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-08-24T06:10:01+00:00</published>
+		<updated>2018-08-24T06:10:01+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Евгений</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;Здравствуйте, Анатолий!
+
+Спасибо за Ваш отзыв!
+Мы стараемся постоянно улучшать качество обслуживания наших гостей и Ваши замечания обязательно будут рассмотрены и учтены.
+Ждем Вас в следующем сезоне!.
+&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;Здравствуйте, Анатолий!
+
+Спасибо за Ваш отзыв!
+Мы стараемся постоянно улучшать качество обслуживания наших гостей и Ваши замечания обязательно будут рассмотрены и учтены.
+Ждем Вас в следующем сезоне!.
+&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-08-21T15:44:24+00:00</published>
+		<updated>2018-08-21T15:44:24+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Геннадий, Москва</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали в августе 2018, все понравилось, обязательно вернемся ещё! &lt;/p&gt;
+&lt;p&gt;Желаем вам процветания! Всех благ!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали в августе 2018, все понравилось, обязательно вернемся ещё! &lt;/p&gt;
+&lt;p&gt;Желаем вам процветания! Всех благ!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-08-18T15:01:12+00:00</published>
+		<updated>2018-08-18T15:01:12+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Наталья</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Гостиница не плохая, но отношения администрации к гостям  только как к &quot;кошелька&quot;, понимания нет.&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Гостиница не плохая, но отношения администрации к гостям  только как к &quot;кошелька&quot;, понимания нет.&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-07-26T07:15:21+00:00</published>
+		<updated>2018-07-26T07:15:21+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Александр, Донецк</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Все очень понравилось - красиво, уютно, комфортно! Спасибо персоналу!&lt;/p&gt;
+&lt;p&gt;Рекомендуем Адмирал для хорошего отдыха всем своим знакомым!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Все очень понравилось - красиво, уютно, комфортно! Спасибо персоналу!&lt;/p&gt;
+&lt;p&gt;Рекомендуем Адмирал для хорошего отдыха всем своим знакомым!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-07-22T07:08:14+00:00</published>
+		<updated>2018-07-22T07:08:14+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Надежда Григорьевна</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали с дочерью в начале сезона, переменчивость погоды в это время была компенсирована бассейном с теплой и чистой водой - отличное решение в любую погоду! Очень чистая и ухоженная территория, красивые цветы и растения радуют глаз! В номерах чисто, убирают регулярно, замечаний нет.  &lt;/p&gt;
+&lt;p&gt;Впечатления от отдыха самые наилучшие! Спасибо всему персоналу! Обязательно вернемся к вам в следующем году!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали с дочерью в начале сезона, переменчивость погоды в это время была компенсирована бассейном с теплой и чистой водой - отличное решение в любую погоду! Очень чистая и ухоженная территория, красивые цветы и растения радуют глаз! В номерах чисто, убирают регулярно, замечаний нет.  &lt;/p&gt;
+&lt;p&gt;Впечатления от отдыха самые наилучшие! Спасибо всему персоналу! Обязательно вернемся к вам в следующем году!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-07-19T06:43:00+00:00</published>
+		<updated>2018-07-19T06:43:00+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Алина, Ростов-на-Дону</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали в июле 2018 г. Все понравилось, на 5+! Пожелание чтобы оставались такие же замечательные цены и персонал!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали в июле 2018 г. Все понравилось, на 5+! Пожелание чтобы оставались такие же замечательные цены и персонал!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title></title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-04-14T15:47:00+00:00</published>
+		<updated>2018-04-14T15:47:00+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Татьяна, Оренбург </name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали большой семьей в прошлом году (дети, родители, бабушки, дедушки) - довольны остались все! Номера комфортные и очень чистые, кондиционеры исправно работают, сантехника в порядке. Территория просто замечательная! Очень порадовал бассейн с кристально чистой водой, детская площадка и крытая веранда - в любую погоду можно отдохнуть и пообедать на свежем воздухе. Большой плюс - близость к пляжу! &lt;/p&gt;
+&lt;p&gt;Для комфортного отдыха с семьей все продумано на 5+ !&lt;/p&gt;
+&lt;p&gt;Выражаем огромную благодарность за наш чудесный отдых владельцам Адмирала и всему персоналу! &lt;/p&gt;
+&lt;p&gt;Рекомендуем всем! &lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхали большой семьей в прошлом году (дети, родители, бабушки, дедушки) - довольны остались все! Номера комфортные и очень чистые, кондиционеры исправно работают, сантехника в порядке. Территория просто замечательная! Очень порадовал бассейн с кристально чистой водой, детская площадка и крытая веранда - в любую погоду можно отдохнуть и пообедать на свежем воздухе. Большой плюс - близость к пляжу! &lt;/p&gt;
+&lt;p&gt;Для комфортного отдыха с семьей все продумано на 5+ !&lt;/p&gt;
+&lt;p&gt;Выражаем огромную благодарность за наш чудесный отдых владельцам Адмирала и всему персоналу! &lt;/p&gt;
+&lt;p&gt;Рекомендуем всем! &lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title>от администрации </title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-05-01T17:26:09+00:00</published>
+		<updated>2018-05-01T17:26:09+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Евгений</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;Татьяна, большое спасибо за теплые слова! Ждем вас снова!&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;Татьяна, большое спасибо за теплые слова! Ждем вас снова!&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+	<entry>
+		<title>Адмирал</title>
+		<link rel="alternate" type="text/html" href="http://www.sudak-admiral.ru"/>
+		<published>2018-06-09T16:23:45+00:00</published>
+		<updated>2018-06-09T16:23:45+00:00</updated>
+		<id>http://www.sudak-admiral.ru</id>
+		<author>
+			<name>Виктория</name>
+			<email>zergin@list.ru</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхом остались очень довольны! Номера уютные и светлые, всегда чистота и порядок. Очень вкусные завтраки, дружелюбный и приветливый персонал. Мы вас не забудем! Из пожеланий - побольше лежаков у бассейна. Если вернемся в Крым, то только к вам! Будем скучать!&lt;/p&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;feed-description&quot;&gt;&lt;p&gt;Отдыхом остались очень довольны! Номера уютные и светлые, всегда чистота и порядок. Очень вкусные завтраки, дружелюбный и приветливый персонал. Мы вас не забудем! Из пожеланий - побольше лежаков у бассейна. Если вернемся в Крым, то только к вам! Будем скучать!&lt;/p&gt;&lt;/div&gt;</content>
+		<category term="Отзывы" />
+	</entry>
+</feed>
